@@ -45,3 +45,4 @@ Q2> Create a matrix class which defines by default 3 x 3 matrix if the size is g
 Q3> create a behaviour to create a copy constructor to read data 
 
 Q4> Accept amount in figures and convert into word (limit 1Cr)
+Q5> Accept name of the day and display owner and color
