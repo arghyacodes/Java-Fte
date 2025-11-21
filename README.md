@@ -46,3 +46,17 @@ Q3> create a behaviour to create a copy constructor to read data
 
 Q4> Accept amount in figures and convert into word (limit 1Cr)
 Q5> Accept name of the day and display owner and color
+
+## Day 2
+
+Virtual function : When loosely coupled techniques methods of the sub class should be virtually defined in the  super class.
+
+What is : Composition, Aggregation, Association
+ Association - child class directly depends on parent class is an association.
+ Aggregation - 
+
+Overriding - If same method present in super and sub class then that method will be called to which object belongs to.
+
+Q> Write a program to reverse int, float, string, long
+
+checked & unchecked exceprion, why do we need finally block
