@@ -51,6 +51,8 @@ Q5> Accept name of the day and display owner and color
 
 Virtual function : When loosely coupled techniques methods of the sub class should be virtually defined in the  super class.
 
+Is a & Has a Relationship in Inheritance
+
 What is : Composition, Aggregation, Association
  Association - child class directly depends on parent class is an association.
  Aggregation - 
