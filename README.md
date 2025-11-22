@@ -86,3 +86,14 @@ Collection supports dynamic insertion and deletions, it supports some processing
 
 we have got interfaces called collection and map, each interface has its own class
 Under collection we have got sub Interface called - list, set, queue, Dqueue 
+
+Questions
+
+To open any image and convert it to b/w
+
+Read data from notepad and 
+
+Create a generics with wild card
+
+Create a database connection of singleton pattern
+
