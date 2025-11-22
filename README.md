@@ -49,9 +49,11 @@ Q5> Accept name of the day and display owner and color
 
 ## Day 2
 
+### Inheritance, Interface, Polymorphism, Access modifiers, getter & setter, Exceptions, Try-catch, Finally, 
+
 Virtual function : When loosely coupled techniques methods of the sub class should be virtually defined in the  super class.
 
-Is a & Has a Relationship in Inheritance
+### Is a & Has a Relationship in Inheritance
 
 What is : Composition, Aggregation, Association
  Association - child class directly depends on parent class is an association.
@@ -62,3 +64,25 @@ Overriding - If same method present in super and sub class then that method will
 Q> Write a program to reverse int, float, string, long
 
 checked & unchecked exceprion, why do we need finally block
+
+loose coupling is a example of runtime polymorphism.
+
+
+## Day 3
+
+Java has lambda expression thus we can implement interface without creating class (can be used for one )
+
+create a function which receives lamda expression and perform the operation use Interface IsMath
+
+write a code to check a number is even or odd using predicate interface
+
+### Collection  -
+It is a framework we can reuse it, made up of APIs which are ready to use.
+
+Create a employee data and sort the names in ascending order.
+
+a collection fwk is made up of interface, classes and algos.
+Collection supports dynamic insertion and deletions, it supports some processing with inbuilt 
+
+we have got interfaces called collection and map, each interface has its own class
+Under collection we have got sub Interface called - list, set, queue, Dqueue 
